@@ -13,7 +13,6 @@ public class Icons {
   public static final Icon ToolWindowIcon = IconLoader.getIcon("/icons/toolwindow-icon.svg", Icons.class);
   public static final ImageIcon DefaultImageIcon = getImageIcon("/icons/chatgpt-icon.png");
   public static final ImageIcon SendImageIcon = getImageIcon("/icons/send-icon.png");
-
   public static final ImageIcon SunImageIcon = getImageIcon("/icons/sun-icon.png");
 
   public static String getHtmlSvgIcon(String iconName) {
